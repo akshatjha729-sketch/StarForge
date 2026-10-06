@@ -1,0 +1,8 @@
+{
+  "name": "Mission Operations Copilot",
+  "description": "Evidence-Grounded Spacecraft Health Investigation: Detect anomalies, correlate mission events, retrieve flight procedures and historical incidents, validate AI claims, and guide human operators through safe investigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
